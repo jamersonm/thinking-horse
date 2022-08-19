@@ -1,0 +1,2 @@
+# ThinkingHorse
+Chess IA
